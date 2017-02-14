@@ -1,5 +1,5 @@
 ## Numpy exercises
-___
+
 
 My solutions for the numpy exercises courtesy of [Kyubyong](https://github.com/Kyubyong/numpy_exercises)
 
