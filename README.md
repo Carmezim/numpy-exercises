@@ -4,7 +4,7 @@
 My solutions for the numpy exercises courtesy of [Kyubyong](https://github.com/Kyubyong/numpy_exercises)
 
   - [x] Array creation routines
-  - [ ] Array manipulation routines 
+  - [x] Array manipulation routines 
   - [ ] String operations 
   - [ ] Numpy-specific help functions
   - [ ] Indexing routines 
