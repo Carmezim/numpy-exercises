@@ -10,8 +10,8 @@ My solutions for the numpy exercises courtesy of [Kyubyong](https://github.com/K
   - [ ] Indexing routines 
   - [ ] Input and output 
   - [x] Linear algebra (numpy.linalg) 
-  - [ ] Logic functions 
-  - [ ] Mathematical functions
+  - [x] Logic functions 
+  - [x] Mathematical functions
   - [ ] Random sampling (numpy.random) 
   - [ ] Set routines 
   - [ ] Sorting, searching, and counting 
