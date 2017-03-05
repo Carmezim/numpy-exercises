@@ -9,7 +9,7 @@ My solutions for the numpy exercises courtesy of [Kyubyong](https://github.com/K
   - [ ] Numpy-specific help functions
   - [ ] Indexing routines 
   - [ ] Input and output 
-  - [ ] Linear algebra (numpy.linalg) 
+  - [x] Linear algebra (numpy.linalg) 
   - [ ] Logic functions 
   - [ ] Mathematical functions
   - [ ] Random sampling (numpy.random) 
